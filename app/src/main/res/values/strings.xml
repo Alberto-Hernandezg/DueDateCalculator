@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DueDateCalculator</string>
+    <string name="hint_date_and_time">Click to select date and time</string>
+    <string name="hint_turnaround_hours">Set turnaround hours</string>
+    <string name="date_and_time">Select date and time of the issue:</string>
+    <string name="btn_get_due_date">Get due date</string>
+    <string name="due_date">The due date is:</string>
+</resources>
